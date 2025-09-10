@@ -1,4 +1,4 @@
-# Insurance-Dashboard
+# Prism Insurance 
 
 ## Problem Statement
 
